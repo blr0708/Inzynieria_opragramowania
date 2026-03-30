@@ -1,0 +1,1 @@
+System modeluje działanie parkingu (X1), który przechowuje (agreguje) listę samochodów (X2). Każdy samochód jest konkretnym rodzajem pojazdu (X3), co zostało przedstawione za pomocą relacji dziedziczenia.
