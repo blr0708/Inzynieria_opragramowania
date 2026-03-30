@@ -1,0 +1,1 @@
+Model systemu raportowego. Raport (X1) zarządza cyklem życia swoich sekcji (X2) poprzez relację kompozycji (0..). Sekcje (X2) wykorzystują obiekt BazaDanych (X3) jako zależność do aktualizacji swoich treści.
