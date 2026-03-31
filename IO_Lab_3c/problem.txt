@@ -1,0 +1,4 @@
+Dziedzina: System e-biblioteki.
+
+
+Opis relacji: Obiekt Ebiblioteka (X1) agreguje obiekty klasy Ebook (X2) za pomocą relacji agregacji (biały romb) o krotności 0..*. Klasa Ebook (X2) zarządza cyklem życia obiektów Rozdzial (X3) poprzez relację kompozycji (czarny romb), co oznacza, że rozdziały są integralną częścią książki i są usuwane wraz z nią.
